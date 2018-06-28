@@ -1,0 +1,11 @@
+[alias]
+	st = status
+	co = checkout
+	cm = commit
+	df = diff
+	br = branch
+[user]
+	email = wei_cheng@c-sky.com
+	name = chenw
+[push]
+	default = simple
